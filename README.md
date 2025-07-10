@@ -26,7 +26,7 @@
 
 ![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarwaghela&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarwaghela&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarwaghela&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=pushkarwaghela&theme=radical)
 
 ---
 
