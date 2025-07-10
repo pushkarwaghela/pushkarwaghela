@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Pushkar Waghela
 
-🎓 2nd Year Electronics & Computer Engineering Student at AVCOE  
+🎓 3rd Year Electronics & Computer Engineering Student at AVCOE  
 💻 MERN Stack Web Developer in training  
 🚀 Passionate about building clean, user-friendly web applications  
 🌱 Always learning something new!
@@ -26,7 +26,7 @@
 
 ![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarwaghela&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarwaghela&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pushkarwaghela&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pushkarwaghela&theme=radical)
 
 ---
 
