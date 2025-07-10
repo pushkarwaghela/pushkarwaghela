@@ -43,7 +43,7 @@
 ## 📬 Let's Connect
 
 📎 [LinkedIn](https://www.linkedin.com/in/pushkar-waghela)  
-🌐 [Portfolio Website](https://weboratech.netlify.app)  
+🌐 [Portfolio Website](https://pushkarwaghela.netlify.app)  
 📧 Email: [pushkarvaghela28@gmail.com](mailto:pushkarvaghela28@gmail.com)
 
 ---
