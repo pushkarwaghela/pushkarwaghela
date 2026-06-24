@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Student Ambassador Program - Verification Portal</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; text-align: center; padding: 60px 20px; background-color: #f8f9fa; color: #333; }
+        .card { background: white; padding: 40px; border-radius: 12px; display: inline-block; max-width: 480px; width: 100%; box-shadow: 0 4px 20px rgba(0,0,0,0.06); border-top: 6px solid #4285F4; }
+        .success-icon { color: #0F9D58; font-size: 60px; margin-bottom: 10px; font-weight: bold; }
+        .fail-icon { color: #EA4335; font-size: 60px; margin-bottom: 10px; font-weight: bold; }
+        h2 { margin-top: 10px; font-size: 24px; color: #1a73e8; }
+        p { line-height: 1.6; font-size: 16px; color: #555; }
+        .badge { background: #e8f0fe; color: #1a73e8; padding: 6px 16px; border-radius: 20px; font-weight: bold; font-size: 13px; display: inline-block; margin-bottom: 15px; text-transform: uppercase; letter-spacing: 0.5px; }
+        .footer-text { font-size: 12px; color: #888; margin-top: 30px; border-top: 1px solid #eee; padding-top: 15px; font-family: monospace; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <div id="verification-result">
+            <p>Connecting to secure registry...</p>
+        </div>
+    </div>
+
+    <script>
+        // Extract the parameters from the URL (?id=GSAMN-XXXX)
+        const urlParams = new URLSearchParams(window.location.search);
+        const certId = urlParams.get('id');
+
+        const container = document.getElementById('verification-result');
+
+        // Fetch verification records from your registry.json file
+        fetch('registry.json')
+            .then(response => response.json())
+            .then(data => {
+                if (certId && data[certId]) {
+                    container.innerHTML = `
+                        <div class="success-icon">✓</div>
+                        <div class="badge">Official GSA Verification</div>
+                        <h2>Certificate Authenticated</h2>
+                        <p>This page confirms that <strong>${data[certId].name}</strong> actively participated in <strong>Music Night Edition</strong> organized under the official <strong>Google Student Ambassador Program 2026</strong>.</p>
+                        <p class="footer-text">VERIFICATION REF: ${certId}</p>
+                    `;
+                } else {
+                    container.innerHTML = `
+                        <div class="fail-icon">✕</div>
+                        <div class="badge" style="background:#fce8e6; color:#c5221f;">Unverified Entry</div>
+                        <h2>Invalid Reference Code</h2>
+                        <p>The cryptographic string tracking key parsed from this document could not be matched with any active event registry entries.</p>
+                        <p class="footer-text">REGISTRY EXCEPTION</p>
+                    `;
+                }
+            })
+            .catch(err => {
+                container.innerHTML = "<h2>Database error. Please scan again.</h2>";
+            });
+    </script>
+
+</body>
+</html>
