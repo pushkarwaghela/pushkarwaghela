@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Pushkar Waghela
 
-🎓 3rd Year Electronics & Computer Engineering Student at AVCOE  
+🎓 Final Year Electronics & Computer Engineering Student at AVCOE  
 💻 MERN Stack Web Developer in training  
 🚀 Passionate about building clean, user-friendly web applications  
 🌱 Always learning something new!
