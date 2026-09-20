@@ -37,14 +37,6 @@ Automated event and attendance tracking for student organizations, cutting manua
 
 ---
 
-## 📈 GitHub Stats
-
-![Pushkar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pushkarwaghela&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pushkarwaghela&layout=compact&theme=radical&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com?user=pushkarwaghela&theme=radical)
-
----
-
 ## 📬 Let's Connect
 
 📎 [LinkedIn](https://www.linkedin.com/in/pushkar-waghela)
