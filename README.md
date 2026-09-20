@@ -1,24 +1,36 @@
-# 👋 Hey there, I'm Pushkar Waghela
+# 👋 Hey, I'm Pushkar Waghela
 
-🎓 Final Year Electronics & Computer Engineering Student at AVCOE  
-💻 MERN Stack Web Developer in training  
-🚀 Passionate about building clean, user-friendly web applications  
-🌱 Always learning something new!
+🚀 Full-Stack Developer | AI & ML Engineer  
+🎓 B.E. Electronics & Computer Engineering, AVCOE (2023–2027)  
+🏆 Top 7 National Finalist, Smart India Hackathon 2024 · Google Gemini Student Ambassador  
+💡 I build full-stack systems and apply NLP/ML to solve real problems — shipped work that's cut manual effort by up to 70% and improved query performance by up to 40%
 
 ---
 
-## 🧰 Tech Stack
+## 🧩 Featured Work
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+**[ArogyaMitra](#)** — AI-powered health & fitness planner (React, Python, SQLite)  
+Personalized workout/nutrition plans with prompt-engineering and output evaluation cycles.
+
+**[VeriCampus](#)** — Blockchain student record verification (React, Node.js, MongoDB)  
+Tamper-proof record storage — Top 7 national finalist, SIH 2024.
+
+**[Smart Document Risk Analyzer](#)** — NLP risk detection (Python, React, Tesseract OCR, BERT)  
+BERT + OCR pipeline to detect and classify sensitive info across 100+ documents — 3rd Prize, TE Mini Project Exhibition.
+
+**[Smart Student Event & Attendance System](#)** — Django, React, SQL  
+Automated tracking for 200+ students, cutting manual effort ~70%, presented live to EY professionals.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · JavaScript · C · C++  
+**Frontend:** React.js · HTML5 · CSS3  
+**Backend:** Node.js · Express.js · Django · REST APIs  
+**Databases:** MySQL · MongoDB · SQLite  
+**AI/ML:** BERT · NLP · OCR (Tesseract) · Prompt Engineering  
+**Cloud/Tools:** AWS · Git · GitHub
 
 ---
 
@@ -26,26 +38,11 @@
 
 ![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarwaghela&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarwaghela&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=pushkarwaghela&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- 🏁 Participated in **Smart India Hackathon 2024**
-- 👨‍💻 **Frontend Intern** at Cognifyz Technologies
-- 🌐 **Web Dev Intern** at InternPe
-- 🏅 Completed **MERN Stack Training** – Google x Devtown
-- 📚 Earned badges in **DSA (Python)**, **JobReady Skills**
 
 ---
 
 ## 📬 Let's Connect
 
 📎 [LinkedIn](https://www.linkedin.com/in/pushkar-waghela)  
-🌐 [Portfolio Website](https://pushkarwaghela.netlify.app)  
-📧 Email: [pushkarvaghela28@gmail.com](mailto:pushkarvaghela28@gmail.com)
-
----
-
-_Thanks for visiting my profile! Feel free to check out my projects or connect with me to collaborate._ 🤝
+🌐 [Portfolio](https://pushkarwaghela.netlify.app)  
+📧 pushkarvaghela28@gmail.com
