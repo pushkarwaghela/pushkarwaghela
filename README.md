@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pushkar%20Waghela&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%2F%20GenAI%20%7C%20Cloud%20%26%20Security&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pushkar%20Waghela&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%2F%20GenAI%20%7C%20Cloud%20and%20Security&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Engineer+Trainee;Full-Stack+with+Django%2C+FastAPI+%26+React;GenAI%2C+NLP+%26+Anomaly+Detection;Cloud+Security+with+AWS+%26+Azure+Telemetry;Open+to+Work+%E2%80%94+2027+Batch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Engineer+Trainee;Full-Stack+with+Django%2C+FastAPI+and+React;GenAI%2C+NLP+and+Anomaly+Detection;Cloud+Security+with+AWS+and+Azure+Telemetry;Open+to+Work+%E2%80%94+2027+Batch" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -112,12 +112,13 @@ I build end-to-end products: backend APIs, clean React frontends, and AI-powered
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pushkarwaghela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarwaghela&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="190" alt="GitHub stats" />
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="190" alt="Most used languages" />
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="190" alt="Repos per language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="190" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=pushkarwaghela&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushkarwaghela&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 
 </div>
 
