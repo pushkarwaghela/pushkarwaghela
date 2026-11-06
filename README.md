@@ -112,11 +112,11 @@ I build end-to-end products: backend APIs, clean React frontends, and AI-powered
 
 <div align="center">
 
-<img src="./profile-summary-card-output/tokyonight/3-stats.svg" height="190" alt="GitHub stats" />
-<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="190" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pushkarwaghela&theme=tokyonight" height="190" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pushkarwaghela&theme=tokyonight" height="190" alt="Most used languages" />
 
-<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="190" alt="Repos per language" />
-<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" height="190" alt="Productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pushkarwaghela&theme=tokyonight" height="190" alt="Repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pushkarwaghela&theme=tokyonight&utcOffset=5.5" height="190" alt="Productive time" />
 
 <img src="https://streak-stats.demolab.com?user=pushkarwaghela&theme=tokyonight&hide_border=true" alt="streak" />
 
