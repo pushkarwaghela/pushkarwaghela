@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pushkar%20Waghela&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20React%20%7C%20GenAI&descAlignY=58&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pushkar%20Waghela&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%2F%20GenAI%20%7C%20Cloud%20%26%20Security&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+Software+Engineer+Trainee;Building+with+Python%2C+Django%2C+FastAPI+%26+React;3+Full-Stack+Internships+%7C+7+Projects+Shipped;Open+to+Software+Developer+Roles+(2027+Batch)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Engineer+Trainee;Full-Stack+with+Django%2C+FastAPI+%26+React;GenAI%2C+NLP+%26+Anomaly+Detection;Cloud+Security+with+AWS+%26+Azure+Telemetry;Open+to+Work+%E2%80%94+2027+Batch" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,6 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-pushkarwaghela.netlify.app-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://pushkarwaghela.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pushkar--waghela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pushkar-waghela)
 [![Email](https://img.shields.io/badge/Email-pushkarvaghela28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pushkarvaghela28@gmail.com)
+
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-Software%20Developer%20%7C%20Full--Stack%20%7C%20AI%20%7C%20Cloud-2ea44f?style=for-the-badge)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pushkarwaghela&label=Profile+Views&color=0e75b6&style=flat)
 
@@ -29,7 +31,7 @@ I build end-to-end products: backend APIs, clean React frontends, and AI-powered
 - 🔭 Currently building **VerifyX**, an AI trust and digital verification platform (final-year team project)
 - 🏆 Shortlisted in internal **Smart India Hackathon 2024, 2025 and 2026**
 - 🎓 Google Gemini Student Ambassador
-- 📫 **Looking for:** Software Developer / Software Engineer Trainee roles
+- 📫 **Open to work:** Software Developer / Engineer Trainee, Full-Stack, AI/GenAI and Cloud/Security roles
 
 ---
 
@@ -83,15 +85,15 @@ I build end-to-end products: backend APIs, clean React frontends, and AI-powered
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🛡️ **[NidhiDrishti](https://github.com/pushkarwaghela/NidhiDrishti)** | AI public-fund audit platform. Explainable risk scoring (rules + Isolation Forest + XGBoost + network analysis) flags disbursal anomalies and vendor irregularities. Dashboard included. | React, FastAPI, Python, XGBoost, Chart.js |
-| ☁️ **[CloudSentry AI](https://github.com/pushkarwaghela/CloudSentry-AI)** | Multi-cloud incident triage. Ingests AWS CloudTrail, GuardDuty and Azure Event Hub telemetry; autoencoder + Isolation Forest anomaly detection; LLM-generated MITRE ATT&CK-mapped summaries. | Python, PyTorch, FastAPI, React, Docker |
-| 📄 **[Smart Document Risk Analyzer](https://github.com/pushkarwaghela/Smart-Document-Risk-Analyzer)** | NLP + OCR pipeline that detects and classifies sensitive data across 100+ documents. 🥉 3rd prize, TE Mini Project Exhibition. | Python, React, BERT, Tesseract |
-| 💪 **[ArogyaMitra](https://github.com/pushkarwaghela/ArogyaMitra)** | Generative AI coach producing personalized workout and nutrition plans via LLaMA, with prompt-evaluation cycles. | React, FastAPI, SQLite, LLaMA |
-| 🎓 **[Smart Student Event & Attendance System](https://github.com/pushkarwaghela/Smart-Student-Event-Attendance-System)** | Automates event and attendance tracking for student organizations. Demoed live to EY professionals at Edunet Demo Day. | Django, React, SQL |
-| 🔗 **[VeriCampus](https://github.com/pushkarwaghela/VeriCampus)** | Tamper-proof student record verification using blockchain and IPFS. Built for Smart India Hackathon 2025. | React, Node.js, MongoDB, IPFS |
-| 🔍 **VerifyX** *(in progress)* | Universal AI trust platform that verifies websites, documents, media and text and merges results into one trust score. Final-year team project. | Python, Django, FastAPI, OpenCV, NLP |
+| Domain | Project | What it does | Stack |
+|---|---|---|---|
+| 🌐 Full-Stack | 🎓 **[Smart Student Event & Attendance System](https://github.com/pushkarwaghela/College-Event-Management-System)** | Automates event and attendance tracking for student organizations. Demoed live to EY professionals at Edunet Demo Day. | Django, React, SQL |
+| 🌐 Full-Stack | 🔗 **VeriCampus** | Tamper-proof student record verification using blockchain and IPFS. Built for Smart India Hackathon 2025. | React, Node.js, MongoDB, IPFS |
+| 🤖 AI / GenAI | 💪 **[ArogyaMitra](https://github.com/pushkarwaghela/ArogyaMitra)** | Generative AI coach producing personalized workout and nutrition plans via LLaMA, with prompt-evaluation cycles. | React, FastAPI, SQLite, LLaMA |
+| 🤖 AI / NLP | 📄 **[Smart Document Risk Analyzer](https://github.com/pushkarwaghela/smart-document-risk-analyzer)** | NLP + OCR pipeline that detects and classifies sensitive data across 100+ documents. 🥉 3rd prize, TE Mini Project Exhibition. | Python, React, BERT, Tesseract |
+| ☁️ Cloud & Security | ☁️ **[CloudSentry AI](https://github.com/pushkarwaghela/cloudsentry-ai)** | Multi-cloud incident triage. Ingests AWS CloudTrail, GuardDuty and Azure Event Hub telemetry; autoencoder + Isolation Forest anomaly detection; LLM-generated MITRE ATT&CK-mapped summaries. | Python, PyTorch, FastAPI, React, Docker |
+| ☁️ Security / Data | 🛡️ **[NidhiDrishti](https://github.com/pushkarwaghela/nidhidrishti)** | AI public-fund audit platform. Explainable risk scoring (rules + Isolation Forest + XGBoost + network analysis) flags disbursal anomalies and vendor irregularities. | React, FastAPI, Python, XGBoost, Chart.js |
+| 🔍 In progress | **[VerifyX](https://github.com/pushkarwaghela/VerifyX-Universal-AI-Trust-Digital-Verification-Platform)** | Universal AI trust platform that verifies websites, documents, media and text and merges results into one trust score. Final-year team project. | Python, Django, FastAPI, OpenCV, NLP |
 
 ---
 
@@ -148,11 +150,11 @@ I build end-to-end products: backend APIs, clean React frontends, and AI-powered
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **Software Developer / Software Engineer Trainee** opportunities. If you have an opening, I'd love to talk.
+I'm actively looking for **Software Developer / Engineer Trainee** roles across **Full-Stack, AI/GenAI and Cloud/Security**. If you have an opening, I'd love to talk.
 
 <div align="center">
 
-📧 **pushkarvaghela28@gmail.com** · 📱 **+91-9921621239** · 🌐 **[pushkarwaghela.netlify.app](https://pushkarwaghela.netlify.app)**
+📧 **pushkarvaghela28@gmail.com** · 💼 **[LinkedIn](https://linkedin.com/in/pushkar-waghela)** · 🌐 **[pushkarwaghela.netlify.app](https://pushkarwaghela.netlify.app)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
